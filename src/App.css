@@ -526,7 +526,7 @@ nav ul li:hover::after {
   width: 60px;
   height: 60px;
   object-fit: contain;
-  filter: invert(1); /* logo dark background pe white dikhe */
+  filter: invert(1);
 }
 
 /* Footer Link Columns */
