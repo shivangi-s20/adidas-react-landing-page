@@ -29,6 +29,33 @@ const reviews = [
     rating: 4,
     product: "Adidas Samba OG",
   },
+  {
+    id: 4,
+    name: "Arjun Mehta",
+    location: "Bangalore",
+    initials: "AM",
+    review: "The NMD R1 is incredibly lightweight and stylish. Perfect for both gym and casual outings. Totally worth the price!",
+    rating: 5,
+    product: "Adidas NMD R1",
+  },
+  {
+    id: 5,
+    name: "Sneha Kapoor",
+    location: "Pune",
+    initials: "SK",
+    review: "Bought the Ultraboost for my marathon training and I'm blown away. The cushioning is next level. Highly recommend!",
+    rating: 5,
+    product: "Adidas Ultraboost 22",
+  },
+  {
+    id: 6,
+    name: "Karan Joshi",
+    location: "Jaipur",
+    initials: "KJ",
+    review: "Samba OG looks amazing with every outfit. Got compliments on day one itself. Adidas never disappoints!",
+    rating: 4,
+    product: "Adidas Samba OG",
+  },
 ];
 
 const Testimonials = () => {

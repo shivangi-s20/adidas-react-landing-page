@@ -36,6 +36,15 @@ const Footer = () => {
           </div>
 
           <div className="footer-links">
+            <h4>Our Location</h4>
+            <ul>
+              <li>📍 Hazratganj, Lucknow</li>
+              <li>🏪 Adidas Store, UP - 226001</li>
+              <li>⏰ Mon–Sat: 10AM – 9PM</li>
+            </ul>
+          </div>
+
+          <div className="footer-links">
             <h4>Contact Us</h4>
             <ul>
               <li>📧 adidas@support.com</li>

@@ -17,11 +17,17 @@ const App = () =>{
     <div>
       <Navigation cartCount={cartCount}/>
       <HeroSection/>
+      <div id="collection">
       <Products addToCart={addToCart}/>
+      </div>
+      <div id="reviews">
       <Testimonials />
+      </div>
+      <div id="contact">
       <Footer/>
       </div>
-  )
+      </div>
+  );
 };
 
 export default App;

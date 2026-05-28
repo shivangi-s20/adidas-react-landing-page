@@ -508,7 +508,7 @@ nav ul li:hover::after {
 
 .footer-top {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
   gap: 40px;
   padding-bottom: 48px;
 }
@@ -600,7 +600,7 @@ nav ul li:hover::after {
 /* Footer Responsive */
 @media (max-width: 1024px) {
   .footer-top {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
